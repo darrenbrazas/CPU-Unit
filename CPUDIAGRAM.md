@@ -1,2 +1,1 @@
-
-<img width="512" height="217" alt="cpudiagram" src="https://github.com/user-attachments/assets/87ff3258-3a6a-4e81-a869-421da8372ab4" />
+![CPUunit](https://github.com/user-attachments/assets/b813b68c-1bc5-4d6f-b1c8-987b2245025d)
